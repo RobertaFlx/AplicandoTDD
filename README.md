@@ -1,6 +1,8 @@
-# Aplicando TDD 
+# Aplicando TDD - Verificação e Validação
  
-Exercício 2 - Aplicando TDD - Verificação e Validação
+Qual aluno desenvolveu qual sistema?
+ - Calculadora de Salário -> Roberta Félix
+ - Processador de Boletos -> Débora Barros
 
 Qual a experiência da dupla no uso de TDD na prática?
 
